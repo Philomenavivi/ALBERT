@@ -1,0 +1,9 @@
+.container {
+    max-width: 800px;
+    /*background-color: gray;*/
+    border: 2px solid gray;
+    height: 100vh;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
